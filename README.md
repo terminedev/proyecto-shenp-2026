@@ -11,9 +11,8 @@ Este grupo se creó originalmente con el fin de exhibir y apoyar obras desarroll
 **Link**: https://shenp.vercel.app/
 
 **Reacciones de la comunidad**: 
-* https://lnkd.in/eSwp3FDp
-* https://lnkd.in/etsp4kBt
-
+* https://www.youtube.com/watch?v=9k_m22RCgi8
+* https://www.youtube.com/watch?v=MmNG8vWN62w
 
 ## Características Principales
 
