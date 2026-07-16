@@ -129,7 +129,7 @@ export default function Layout() {
                         className={layoutStyles.userName}
                         aria-label="Visitar perfil de GitHub de Gastøn ♱érmine (se abre en una nueva pestaña)"
                     >
-                        Gastøn ♱érmine
+                        terminedev 2026
                     </a>
                 </div>
             </header>
